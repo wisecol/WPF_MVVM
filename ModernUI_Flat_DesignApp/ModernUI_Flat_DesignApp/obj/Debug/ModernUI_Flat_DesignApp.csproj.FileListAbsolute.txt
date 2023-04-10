@@ -1,0 +1,16 @@
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\bin\Debug\ModernUI_Flat_DesignApp.exe.config
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\bin\Debug\ModernUI_Flat_DesignApp.exe
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\bin\Debug\ModernUI_Flat_DesignApp.pdb
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.csproj.AssemblyReference.cache
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\MainWindow.g.cs
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\App.g.cs
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp_MarkupCompile.cache
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp_MarkupCompile.lref
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\MainWindow.baml
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.g.resources
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.Properties.Resources.resources
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.csproj.GenerateResource.cache
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.csproj.CoreCompileInputs.cache
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.exe
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.pdb
+C:\WpfApp\WPF\MVVM_PatternApp\ModernUI_Flat_DesignApp\ModernUI_Flat_DesignApp\obj\Debug\ModernUI_Flat_DesignApp.csproj.SuggestedBindingRedirects.cache
