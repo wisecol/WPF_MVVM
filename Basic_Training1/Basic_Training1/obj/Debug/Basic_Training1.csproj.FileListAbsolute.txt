@@ -1,0 +1,16 @@
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\bin\Debug\Basic_Training1.exe.config
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\bin\Debug\Basic_Training1.exe
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\bin\Debug\Basic_Training1.pdb
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.csproj.AssemblyReference.cache
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\MainWindow.g.cs
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\App.g.cs
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1_MarkupCompile.cache
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1_MarkupCompile.lref
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\MainWindow.baml
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.g.resources
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.Properties.Resources.resources
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.csproj.GenerateResource.cache
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.csproj.CoreCompileInputs.cache
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.exe
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\Basic_Training1.pdb
+C:\WpfApp\WPF\MVVM_PatternApp\Basic_Training1\Basic_Training1\obj\Debug\GeneratedInternalTypeHelper.g.cs
