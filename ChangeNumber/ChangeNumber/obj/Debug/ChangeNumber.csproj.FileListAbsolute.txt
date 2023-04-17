@@ -1,0 +1,16 @@
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\bin\Debug\ChangeNumber.exe.config
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\bin\Debug\ChangeNumber.exe
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\bin\Debug\ChangeNumber.pdb
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\MainWindow.g.cs
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\App.g.cs
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber_MarkupCompile.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber_MarkupCompile.lref
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\MainWindow.baml
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.g.resources
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.Properties.Resources.resources
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.csproj.GenerateResource.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.csproj.CoreCompileInputs.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.exe
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.pdb
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\ChangeNumber.csproj.AssemblyReference.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ChangeNumber\ChangeNumber\obj\Debug\GeneratedInternalTypeHelper.g.cs
