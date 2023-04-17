@@ -1,0 +1,14 @@
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\bin\Debug\FullName.exe.config
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\bin\Debug\FullName.exe
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\bin\Debug\FullName.pdb
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\App.g.cs
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName_MarkupCompile.cache
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName_MarkupCompile.lref
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName.g.resources
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName.Properties.Resources.resources
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName.csproj.GenerateResource.cache
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName.csproj.CoreCompileInputs.cache
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName.exe
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\FullName.pdb
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\View\View.g.cs
+F:\WpfApp\WPF\MVVM_PatternApp\FullName\FullName\obj\Debug\View\View.baml
