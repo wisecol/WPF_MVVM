@@ -1,0 +1,16 @@
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\bin\Debug\ExchangeCalc.exe.config
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\bin\Debug\ExchangeCalc.exe
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\bin\Debug\ExchangeCalc.pdb
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\View\MainWindow.g.cs
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\App.g.cs
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc_MarkupCompile.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc_MarkupCompile.lref
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\View\MainWindow.baml
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.g.resources
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.Properties.Resources.resources
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.csproj.GenerateResource.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.csproj.CoreCompileInputs.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.exe
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.pdb
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\ExchangeCalc.csproj.AssemblyReference.cache
+F:\WpfApp\WPF\MVVM_PatternApp\ExchangeCalc\ExchangeCalc\obj\Debug\GeneratedInternalTypeHelper.g.cs

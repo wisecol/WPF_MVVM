@@ -4,42 +4,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ReactiveUI;
+using System.ComponentModel;
 
 namespace AddressManagement.Model
 {
-    public class Person : ReactiveObject
+    public class Person : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        protected void OnPropertyChanged(string name)
+        {
+            PropertyChangedEventHandler handler = PropertyChanged;
+            if (handler != null)
+                handler(this, new PropertyChangedEventArgs(name));
+        }
+
         private string _name;
-
-        public string Name
-        {
-            get { return _name; }
-            set { this.RaiseAndSetIfChanged(ref _name, value); }
-        }
-
-        private bool _gender;
-
-        public bool Gender
-        {
-            get { return _gender; }
-            set { this.RaiseAndSetIfChanged(ref _gender, value); }
-        }
-
-        private string _phoneNumber;
-
-        public string PhoneNumber
-        {
-            get { return _phoneNumber; }
-            set { this.RaiseAndSetIfChanged(ref _phoneNumber, value); }
-        }
-
+        private string _gender;
+        private int _phoneNumber;
         private string _address;
-       
-        public string Address
-        {
-            get { return _address; }
-            set { this.RaiseAndSetIfChanged(ref _address, value); }
-        }
+
+        public string Name { get => _name; set => _name = value; }
+        public string Gender { get => _gender; set => _gender = value; }
+        public int PhoneNumber { get => _phoneNumber; set => _phoneNumber = value; }
+        public string Address { get => _address; set => _address = value; }
 
         public Person()
         {
@@ -48,10 +36,10 @@ namespace AddressManagement.Model
 
         public Person(Person input)
         {
-            _name = input.Name;
-            _gender = input.Gender;
-            _phoneNumber = input.PhoneNumber;
-            _address = input.Address;
+            Name = input.Name;
+            Gender = input.Gender;
+            PhoneNumber = input.PhoneNumber;
+            Address = input.Address;
         }
 
 

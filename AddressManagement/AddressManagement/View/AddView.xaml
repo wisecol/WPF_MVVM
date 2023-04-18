@@ -1,14 +1,18 @@
-﻿<Window x:Class="AddressManagement.View.AddView"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AddressManagement.View"
+        xmlns:Model="clr-namespace:AddressManagement.Model" x:Class="AddressManagement.View.AddView"
         mc:Ignorable="d"
-        Name="AddViewParam"
-        d:DataContext="{d:DesignInstance local:AddView}"
-        Title="AddView" 
+        x:Name="AddViewParam"
+        d:DataContext="{d:DesignInstance {x:Type local:AddView}}"
+        Title="{Binding Path=Caption, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" 
         Height="300" Width="300" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Window.DataContext>
+        <Model:Person/>
+    </Window.DataContext>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="4"/>
@@ -23,7 +27,7 @@
             <RowDefinition Height="24"/>
             <RowDefinition Height="4"/>
         </Grid.RowDefinitions>
-        
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="4"/>
             <ColumnDefinition Width="60"/>
@@ -36,9 +40,21 @@
         </Grid.ColumnDefinitions>
 
         <Label Content="이름" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" />
-        <TextBox TextWrapping="Wrap" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="4"/>
+        <TextBox TextWrapping="Wrap" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="4"
+                 Text="{Binding Path=person}"/>
+
+        <Label Content="성별" Grid.Row="3" Grid.Column="1" VerticalAlignment="Stretch" />
+        <TextBox TextWrapping="Wrap" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="4"/>
+
+        <Label Content="전화번호" Grid.Row="5" Grid.Column="1" VerticalAlignment="Stretch" />
+        <TextBox TextWrapping="Wrap" Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="4"/>
+
+        <Label Content="주소" Grid.Row="7" Grid.Column="1" VerticalAlignment="Stretch" />
+        <TextBox TextWrapping="Wrap" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="4"/>
 
 
+        <Button Content="확인" Grid.Row="9" Grid.Column="4"/>
+        <Button Content="취소" Grid.Row="9" Grid.Column="6"/>
 
     </Grid>
 </Window>

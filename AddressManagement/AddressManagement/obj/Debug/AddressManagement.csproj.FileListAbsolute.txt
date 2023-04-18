@@ -30,3 +30,4 @@ F:\WpfApp\WPF\MVVM_PatternApp\AddressManagement\AddressManagement\bin\Debug\Syst
 F:\WpfApp\WPF\MVVM_PatternApp\AddressManagement\AddressManagement\obj\Debug\AddressManagement.csproj.CopyComplete
 F:\WpfApp\WPF\MVVM_PatternApp\AddressManagement\AddressManagement\obj\Debug\View\AddView.g.cs
 F:\WpfApp\WPF\MVVM_PatternApp\AddressManagement\AddressManagement\obj\Debug\View\AddView.baml
+F:\WpfApp\WPF\MVVM_PatternApp\AddressManagement\AddressManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
