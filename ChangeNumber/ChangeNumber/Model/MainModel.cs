@@ -19,7 +19,7 @@ namespace ChangeNumber.Model
                 handler(this, new PropertyChangedEventArgs(name));
             }
         }
-
+        //test
         private int inputNum = 1;
         private int resNum = 1;
 
